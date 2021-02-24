@@ -16,4 +16,9 @@ quotes = [
         " that humans can understand.",
         "author": "Martin Fowler",
     },
+    {
+        "quote": "Never regret. If it's good, it's wonderful. "
+        "If it's bad, it's experience.",
+        "author": "Victoria Holt",
+    },
 ]
